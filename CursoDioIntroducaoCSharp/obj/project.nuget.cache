@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RuKXh7l3m2UZLuMHWmmGoFihifE0vHhnZ0mD9xmo8T02c/vN4AJ17dLYI3HxvoaZj0OZ0rzOk/zoNiBSBr/XWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leand\\source\\repos\\CursoDioIntroducaoCSharp\\CursoDioIntroducaoCSharp\\CursoDioIntroducaoCSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leand\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}
